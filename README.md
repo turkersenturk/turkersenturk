@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Turker. I am lead software engineer that develop apps with PHP, Java, Python since 2008. I love problem solving and build new things which change your life. I love math and machine learning as well.
+
 <!--
 **turkersenturk/turkersenturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
